@@ -1,4 +1,4 @@
-# Team-2
+# Team-1
 ## Name of game: 
 ## Members: 
 ## Position: 
